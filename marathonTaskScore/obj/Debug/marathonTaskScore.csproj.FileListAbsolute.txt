@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\CodeSignal\marathonTaskScore\obj\Debug\marathonTaskScore.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\CodeSignal\marathonTaskScore\obj\Debug\marathonTaskScore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\CodeSignal\marathonTaskScore\obj\Debug\marathonTaskScore.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\CodeSignal\marathonTaskScore\bin\Debug\marathonTaskScore.exe.config
+C:\Users\Jack\source\repos\CodeSignal\marathonTaskScore\bin\Debug\marathonTaskScore.exe
+C:\Users\Jack\source\repos\CodeSignal\marathonTaskScore\bin\Debug\marathonTaskScore.pdb
+C:\Users\Jack\source\repos\CodeSignal\marathonTaskScore\obj\Debug\marathonTaskScore.exe
+C:\Users\Jack\source\repos\CodeSignal\marathonTaskScore\obj\Debug\marathonTaskScore.pdb

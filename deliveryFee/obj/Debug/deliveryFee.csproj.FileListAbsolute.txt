@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\CodeSignal\deliveryFee\bin\Debug\deliveryFee.exe.config
+C:\Users\Jack\source\repos\CodeSignal\deliveryFee\bin\Debug\deliveryFee.exe
+C:\Users\Jack\source\repos\CodeSignal\deliveryFee\bin\Debug\deliveryFee.pdb
+C:\Users\Jack\source\repos\CodeSignal\deliveryFee\obj\Debug\deliveryFee.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\CodeSignal\deliveryFee\obj\Debug\deliveryFee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\CodeSignal\deliveryFee\obj\Debug\deliveryFee.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\CodeSignal\deliveryFee\obj\Debug\deliveryFee.exe
+C:\Users\Jack\source\repos\CodeSignal\deliveryFee\obj\Debug\deliveryFee.pdb

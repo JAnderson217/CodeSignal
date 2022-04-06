@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "marathonTaskScore", "marathonTaskScore\marathonTaskScore.csproj", "{7C22C355-704F-4C84-83BB-EB2866AF2E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deliveryFee", "deliveryFee\deliveryFee.csproj", "{00BBD2DD-7F81-422B-8CCB-29915068ACD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C22C355-704F-4C84-83BB-EB2866AF2E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C22C355-704F-4C84-83BB-EB2866AF2E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C22C355-704F-4C84-83BB-EB2866AF2E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C22C355-704F-4C84-83BB-EB2866AF2E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BBD2DD-7F81-422B-8CCB-29915068ACD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BBD2DD-7F81-422B-8CCB-29915068ACD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BBD2DD-7F81-422B-8CCB-29915068ACD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BBD2DD-7F81-422B-8CCB-29915068ACD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7CD1241-E1B0-491B-8BCC-B013A9D478DA}
+	EndGlobalSection
+EndGlobal
