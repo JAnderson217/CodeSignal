@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\CodeSignal\Mutation\bin\Debug\Mutation.exe.config
+C:\Users\Jack\source\repos\CodeSignal\Mutation\bin\Debug\Mutation.exe
+C:\Users\Jack\source\repos\CodeSignal\Mutation\bin\Debug\Mutation.pdb
+C:\Users\Jack\source\repos\CodeSignal\Mutation\obj\Debug\Mutation.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\CodeSignal\Mutation\obj\Debug\Mutation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\CodeSignal\Mutation\obj\Debug\Mutation.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\CodeSignal\Mutation\obj\Debug\Mutation.exe
+C:\Users\Jack\source\repos\CodeSignal\Mutation\obj\Debug\Mutation.pdb

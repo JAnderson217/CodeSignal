@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\CodeSignal\ascendingCheck\bin\Debug\ascendingCheck.exe.config
+C:\Users\Jack\source\repos\CodeSignal\ascendingCheck\bin\Debug\ascendingCheck.exe
+C:\Users\Jack\source\repos\CodeSignal\ascendingCheck\bin\Debug\ascendingCheck.pdb
+C:\Users\Jack\source\repos\CodeSignal\ascendingCheck\obj\Debug\ascendingCheck.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\CodeSignal\ascendingCheck\obj\Debug\ascendingCheck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\CodeSignal\ascendingCheck\obj\Debug\ascendingCheck.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\CodeSignal\ascendingCheck\obj\Debug\ascendingCheck.exe
+C:\Users\Jack\source\repos\CodeSignal\ascendingCheck\obj\Debug\ascendingCheck.pdb

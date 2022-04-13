@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\CodeSignal\arraysMean\bin\Debug\arraysMean.exe.config
+C:\Users\Jack\source\repos\CodeSignal\arraysMean\bin\Debug\arraysMean.exe
+C:\Users\Jack\source\repos\CodeSignal\arraysMean\bin\Debug\arraysMean.pdb
+C:\Users\Jack\source\repos\CodeSignal\arraysMean\obj\Debug\arraysMean.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\CodeSignal\arraysMean\obj\Debug\arraysMean.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\CodeSignal\arraysMean\obj\Debug\arraysMean.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\CodeSignal\arraysMean\obj\Debug\arraysMean.exe
+C:\Users\Jack\source\repos\CodeSignal\arraysMean\obj\Debug\arraysMean.pdb
